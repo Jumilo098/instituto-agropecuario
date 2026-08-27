@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /$
+Disallow: /gracias/
+Disallow: /oferta/
+Disallow: /bienvenida/
+Disallow: /legal/

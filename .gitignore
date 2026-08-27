@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.wrangler/
+.env
+.env.*
+!.env.example
+# Config con datos reales de producción (si algún día se separa del repo)
+public/assets/config.local.js
+
+# La guia en PDF NO se publica: contiene cifras reales de facturacion y
+# datos de terceros (ver sesion-86/LA-GUIA.md)
+sesion-86/guia.pdf
+sesion-86/*.pdf

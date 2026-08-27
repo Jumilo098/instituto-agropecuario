@@ -1,0 +1,14 @@
+# Rutas amigables del embudo (Cloudflare Pages)
+# Sirven para acortar enlaces en anuncios, WhatsApp y correos.
+
+/webinar        /            302
+/registro       /            302
+/evento         /            302
+
+/carta          /oferta/     302
+/oferta.html    /oferta/     301
+/abcd           /oferta/     302
+/cohorte        /oferta/     302
+
+/gracias.html   /gracias/    301
+/bienvenida.html /bienvenida/ 301
