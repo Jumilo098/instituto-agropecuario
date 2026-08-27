@@ -12,3 +12,11 @@
 
 /gracias.html   /gracias/    301
 /bienvenida.html /bienvenida/ 301
+
+# El repositorio publico del embudo, para compartirlo con los alumnos
+# desde un enlace del propio dominio en vez del de GitHub.
+/repositorio    https://github.com/Jumilo098/instituto-agropecuario  302
+/repo           https://github.com/Jumilo098/instituto-agropecuario  302
+/github         https://github.com/Jumilo098/instituto-agropecuario  302
+/codigo         https://github.com/Jumilo098/instituto-agropecuario  302
+/embudo         https://github.com/Jumilo098/instituto-agropecuario  302
